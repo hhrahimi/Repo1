@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FE8B-6BAC
+
+ Directory of C:\Users\hrahi\OneDrive\Desktop\MyGitProject
+
+02/11/2022  10:10    <DIR>          .
+02/11/2022  09:55    <DIR>          ..
+02/11/2022  10:10                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  405,608,017,920 bytes free
